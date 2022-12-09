@@ -1,0 +1,7 @@
+F:\Курсы по Unity\Программы\Crider2\Crider2\bin\Debug\Crider2.exe
+F:\Курсы по Unity\Программы\Crider2\Crider2\bin\Debug\Crider2.pdb
+F:\Курсы по Unity\Программы\Crider2\Crider2\obj\Debug\Crider2.csproj.AssemblyReference.cache
+F:\Курсы по Unity\Программы\Crider2\Crider2\obj\Debug\Crider2.csproj.CoreCompileInputs.cache
+F:\Курсы по Unity\Программы\Crider2\Crider2\obj\Debug\Crider2.exe
+F:\Курсы по Unity\Программы\Crider2\Crider2\obj\Debug\Crider2.pdb
+F:\Курсы по Unity\Программы\Crider2\Crider2\obj\Debug\Crider2.csproj.SuggestedBindingRedirects.cache
