@@ -36,8 +36,8 @@ namespace Crider2
             int count2=TwoMyArray(b);
             Console.WriteLine();
             Console.WriteLine($"кол-во положительных эл 1 массива = {count}, второго =  {count2}");
-            
-           
+            Console.ReadKey();
+
         }
     }
 }
